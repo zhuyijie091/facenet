@@ -1,0 +1,3 @@
+model_data/facenet_inception_resnetv1.pth
+model_data/Retinaface_resnet50.pth
+model_data/*.pth

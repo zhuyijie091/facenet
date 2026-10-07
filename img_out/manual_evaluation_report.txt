@@ -1,0 +1,35 @@
+准确率: 0.1148
+
+混淆矩阵（原始计数）:
+: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 1, '白鹿.jpg': 0, '雷军.jpg': 0}
+Unknown: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+bailu: {'': 0, 'Unknown': 5, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 5, '雷军.jpg': 0}
+leijun: {'': 0, 'Unknown': 2, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 8}
+obama: {'': 0, 'Unknown': 3, 'bailu': 0, 'leijun': 0, 'obama': 7, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+wuyanzu: {'': 0, 'Unknown': 2, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 8, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+zhangxueyou: {'': 0, 'Unknown': 2, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 8, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+zhouxingchi: {'': 0, 'Unknown': 3, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 7, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+吴彦祖.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+张学友.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+张星驰.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+朱奕杰.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+白鹿.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+雷军.jpg: {'': 0, 'Unknown': 0, 'bailu': 0, 'leijun': 0, 'obama': 0, 'wuyanzu': 0, 'zhangxueyou': 0, 'zhouxingchi': 0, '吴彦祖.jpg': 0, '张学友.jpg': 0, '张星驰.jpg': 0, '朱奕杰.jpg': 0, '白鹿.jpg': 0, '雷军.jpg': 0}
+
+分类报告:
+类别              Precision  Recall     F1-score   Support   
+                0.0000     0.0000     0.0000     1         
+Unknown         0.0000     0.0000     0.0000     0         
+bailu           0.0000     0.0000     0.0000     10        
+leijun          0.0000     0.0000     0.0000     10        
+obama           1.0000     0.7000     0.8235     10        
+wuyanzu         0.0000     0.0000     0.0000     10        
+zhangxueyou     0.0000     0.0000     0.0000     10        
+zhouxingchi     0.0000     0.0000     0.0000     10        
+吴彦祖.jpg         0.0000     0.0000     0.0000     0         
+张学友.jpg         0.0000     0.0000     0.0000     0         
+张星驰.jpg         0.0000     0.0000     0.0000     0         
+朱奕杰.jpg         0.0000     0.0000     0.0000     0         
+白鹿.jpg          0.0000     0.0000     0.0000     0         
+雷军.jpg          0.0000     0.0000     0.0000     0         
+macro avg       0.1639     0.1148     0.1350     61        
